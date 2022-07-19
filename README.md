@@ -1,10 +1,5 @@
 ## Custom Repo for LKAS using SunFounders PiCar
-
-Quick Links:
-
- * [About this kit](#about_this_kit)
  
-<a id="about_this_kit"></a>
 ### About this kit:
 This kit is a upgrade from [Sunfounder Smart Video Car Kit for Raspberry Pi](https://github.com/sunfounder/Sunfounder_Smart_Video_Car_Kit_for_RaspberryPi). With wide angle camera, new motor driver, with-sensor-extension Robot HATS, makes this kit cleaner, much more beautiful and much more useful.
 Also, as motor driver has been change to TB6612FNG, this code is not compatible with Version 1.
